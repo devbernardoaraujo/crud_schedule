@@ -1,4 +1,4 @@
-<h1 align="center">Schedule API com Fastify, Node.js, TypeScript e Prisma</h1>
+<h1 align="center">Scheduling API with Fastify, Node.js, TypeScript and Prisma</h1>
 <p align="center">
   <img src="https://img.shields.io/badge/Node.js-v16.3.0-green" alt="Node.js Version">
   <img src="https://img.shields.io/badge/Fastify-v4.5.1-blue" alt="Fastify Version">
